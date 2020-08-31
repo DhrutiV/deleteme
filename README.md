@@ -1,3 +1,3 @@
 # deleteme
 
-I will be deleted.
+I should be deleted.
